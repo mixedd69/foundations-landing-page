@@ -1,8 +1,22 @@
-# foundations-landing-page
-Landing Page project for The Odin Project Foundations section
+# Foundations Landing Page
 
-## The Odin Project assignment
-[Project: Landing Page](https://www.theodinproject.com/lessons/foundations-landing-page)
+Solution for [Project: Landing Page](https://www.theodinproject.com/lessons/foundations-landing-page) assignment by The Odin Project
 
-## Finished Project
-[Landing Page](https://mixedd69.github.io/foundations-landing-page/)
+## Table of Contents
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+
+## Live Demo
+🌐 [Live Demo](https://mixedd69.github.io/foundations-landing-page/)
+
+## Features
+- Semantic HTML
+- Properly structured sections
+- CSS Styling
+
+## Installation
+```bash
+git clone ...
+cd ...
+Open index.html in your browser
