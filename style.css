@@ -180,3 +180,49 @@ figcaption {
 .quote figure {
     padding: 64px 0;
 }
+
+.call-action {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 64px;
+}
+
+.call-container {
+    background-color: #3882F6;
+    border-radius: 15px;
+    width: 1200px;
+    padding: 24px;
+    height: 150px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.call-text {
+    flex: 2;
+    margin-left: 120px;
+}
+
+.call-text h2 {
+    color: #F9FAF8;
+}
+
+.call-text p {
+    color: #E5E7EB;
+}
+
+.call-button {
+    flex-shrink: 0;
+    background-color: #3882F6;
+    color: #E5E7EB;
+    border: 2px solid #E5E7EB;
+    padding: 8px 24px;
+    font-size: 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    align-self: center;
+    width: auto;
+    margin: 150px;
+}
