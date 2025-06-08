@@ -14,7 +14,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 20px;
+    padding: 24px;
     background-color: #1f2937;
 }
 
@@ -202,7 +202,7 @@ figcaption {
 
 .call-text {
     flex: 2;
-    margin-left: 120px;
+    margin-left: 124px;
 }
 
 .call-text h2 {
@@ -225,4 +225,15 @@ figcaption {
     align-self: center;
     width: auto;
     margin: 150px;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #1f2937;
+    color: #E5E7EB;
+    font-size: 18px;
+    padding: 24px 0;
+    width: 100%;
 }
