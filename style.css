@@ -123,6 +123,7 @@ body {
     justify-content: space-between;
     gap: 20px;
     flex-wrap: wrap;
+    max-width: 800px;
 }
 
 .card {
@@ -143,4 +144,39 @@ body {
 .card-text {
     font-size: 18px;
     padding-top: 8px;
+}
+
+blockquote {
+    max-width: 800px;
+    margin: 0;
+    padding: 0;
+}
+
+figcaption {
+    margin-top: 16px;
+    font-weight: bold;
+}
+
+.quote {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #E5E7EB;
+    text-align: justify;
+}
+
+.quote-text {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 300;
+    color: #1f2937;
+}
+
+.quote-author {
+    text-align: right;
+    font-size: 24px;
+}
+
+.quote figure {
+    padding: 64px 0;
 }
